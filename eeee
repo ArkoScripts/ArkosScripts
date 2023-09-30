@@ -3,7 +3,7 @@
 
 -- Instances:
 
-local Loading = Instance.new("ScreenGui")
+local ArkoLoader = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
 local Title = Instance.new("TextLabel")
 local Dots = Instance.new("Frame")
