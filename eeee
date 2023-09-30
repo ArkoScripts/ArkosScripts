@@ -29,10 +29,10 @@ local EndSequence = Instance.new("Frame")
 
 --Properties:
 
-Loading.Name = "Loading"
-Loading.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-Loading.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-Loading.ResetOnSpawn = false
+ArkoLoader.Name = "Loading"
+ArkoLoader.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ArkoLoader.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ArkoLoader.ResetOnSpawn = false
 
 MainFrame.Name = "MainFrame"
 MainFrame.Parent = Loading
